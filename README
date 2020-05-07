@@ -2,23 +2,24 @@
 		Compile and Run
 ====================================================
 
-
-
-
+to compile type 'make'
+to run type ./oss 
+extra commands are
+-h: for help message
+-m: type 1 to run weighted page frame selection
+defaulted to 0. 
 
 
 =====================================================
 		Logs
 =====================================================
-
-
-
+https://github.com/ch3rc/OSP6
 ======================================================
 		Issues
 ======================================================
-
-
-
+i had issues getting the child processes to terminate
+so i had to reduce the memory references to 100 and
+would still have issues with processes canceling.
 
 
 ======================================================
