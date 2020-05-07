@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -I. -g -Wall
-OBJS = 
+OBJS = shared.o
 .SUFFIXES: .c .o
 
 all: oss user
